@@ -74,7 +74,7 @@ The results of the model on the 4 custom classes:
 |------------------------|------------------------|
 | ![Image3](https://github.com/harshvs4/YoLoV3/blob/main/result_data/image-014.jpg) | ![Image4](https://github.com/harshvs4/YoLoV3/blob/main/result_data/image-012.jpg) |
 
-**Rapunzel** 
+**Maximus** 
 
 | ![Image1](https://github.com/harshvs4/YoLoV3/blob/main/result_data/image-018.jpg) | ![Image2](https://github.com/harshvs4/YoLoV3/blob/main/result_data/image-018.jpg) |
 |------------------------|------------------------|
